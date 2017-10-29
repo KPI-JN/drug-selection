@@ -17,6 +17,6 @@
 # Deploying the prebuilt app
 For a fast start, you can deploy the prebuilt app to Bluemix by clicking the following button:
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/pmservice/drug-selection&appName=drug-selection&branch=master)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/kpi-jn/drug-selection&appName=drug-selection&branch=master)
 
 Note that the application is fully functional only if bound to an instance of the *Watson Machine Learning* service, which must be done manually.
